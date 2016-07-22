@@ -15,8 +15,8 @@ Wikiracing is a game that people play on Wikipedia. Given a starting article and
 
 <pre>
 {
-  "start": "<starting article>"
-  "end": <ending article>"
+  "start": "starting article"
+  "end": "ending article"
 }
 </pre>
 
@@ -24,17 +24,17 @@ and which will return the results of the race in the form of a JSON object:
 
 <pre>
 {
-  "start": "<starting article>"
-  "end": <ending article>"
+  "start": "starting article" 
+  "end": "ending article"
   "path": [
-    "<starting article>"
-	"<article at step 1>"
-	"<article at step 2>"
+    "starting article"
+	"article at step 1"
+	"article at step 2"
 	.
 	.
 	.
-	"<article at step n-1>"
-	"<ending article>"
+	"article at step n-1"
+	"ending article"
   ]
 }
 </pre>
