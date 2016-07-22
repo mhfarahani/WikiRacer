@@ -1,0 +1,1 @@
+{"path": ["https://en.wikipedia.org/wiki/Euclid", "https://en.wikipedia.org/wiki/Mathematics", "https://en.wikipedia.org/wiki/Richard_Feynman"], "end": ["https://en.wikipedia.org/wiki/Richard_Feynman"], "start": ["https://en.wikipedia.org/wiki/Euclid"]}
